@@ -4,7 +4,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 const NavBar = () => {
   return (
     <div className={styles.container}>
-      <p className={styles.title}>MMG ...</p>
+      <p className={styles.title}>MMG</p>
       <button className={styles.letsTalk}>
         <p className={styles.text}>Let&apos;s Talk</p>
         <ArrowForwardIcon className={styles.arrow} />
